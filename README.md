@@ -2,7 +2,7 @@
 
 This repo consists of a chirp driver for controlling the Wouxun KG-M70 radio
 
-<img src="./doc/m70.png" alt="KG-M70 Radio" width="400"/>
+<img src="./doc/m70.png" alt="KG-M70 Radio" width="300"/>
 
 ----
 
@@ -10,7 +10,7 @@ To run it, please follow this instructions:
 
 1 - Make sure you have a **recent** version Chirp. You can download the latest version from its [official site](https://chirpmyradio.com/projects/chirp/wiki/Download#)
 
-2 - Download the kg-m70 driver from [here](https://github.com/SatcomRadio/wouxun_kgm70_chirp_driver/blob/main/kguv8p.py)
+2 - Download the kg-m70 driver from [here](https://github.com/SatcomRadio/wouxun_kgm70_chirp_driver/blob/main/kgm70.py)
 
 You need to press this button to download the file
 
