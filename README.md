@@ -1,6 +1,7 @@
 # Chirp driver for the Wouxun KG-M70
 
-This repo consists of a chirp driver for controlling the Wouxun KG-M70 radio
+This repo consists of a chirp driver for controlling the Wouxun KG-M70 radio.  
+This driver works for the standard version of the M70 that (2 meter and 70 cm band) and also with the custom M70 version that wouxun sells trough their email that works on 2 meters and 200-320Mhz (satcom)
 
 <img src="./doc/m70.png" alt="KG-M70 Radio" width="300"/>
 
